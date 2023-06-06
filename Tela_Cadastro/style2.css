@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap');
+
+
+body{
+   background-size: cover;
+   background-image: url("https://images6.alphacoders.com/922/thumb-1920-922275.png");
+}
+
+
+h1{
+    text-align: center;
+    color: azure;
+    font-size: 48px;
+}
+
+.n{
+    position: absolute;
+width: 55px;
+height: 24px;
+left: 800px;
+top: 350px;
+
+font-family: 'Lily Script One', cursive;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 24px;
+
+color: #ffff;
+}
+
+.n2{
+        position: absolute;
+    width: 270px;
+    height: 25px;
+    left: 800px;
+    top: 380px;
+    
+    background:  rgba(143, 255, 1, 0.53);
+}
+
+.e{    
+    position: absolute;
+width: 55px;
+height: 24px;
+left: 800px;
+top: 445px;
+
+font-family: 'Lily Script One', cursive;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 24px;
+
+color: #ffff;
+
+}
+
+.e2{
+    position: absolute;
+    width: 270px;
+    height: 25px;
+    left: 800px;
+    top: 475px;
+    
+    background:  rgba(143, 255, 1, 0.53);
+}
+
+.p{
+    position: absolute;
+width: 55px;
+height: 24px;
+left: 800px;
+top: 540px;
+
+font-family: 'Lily Script One', cursive;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 24px;
+
+color: #ffff;
+}
+
+.p1{
+    position: absolute;
+    width: 270px;
+    height: 25px;
+    left: 800px;
+    top: 570px;
+    
+    background:  rgba(143, 255, 1, 0.53);
+
+}
+
+.b1{position: absolute;
+    width: 131px;
+    height: 34px;
+    left: 950px;
+    top: 673px;
+    
+    background: #A8FF38;
+}
